@@ -1,0 +1,7 @@
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://moncu.es/sitemap.xml
