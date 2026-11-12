@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog de Moncu</title>
+    <link>https://moncu.es/blog/</link>
+    <description>Historias, consejos y novedades de Moncu.</description>
+    <language>es-ES</language>
+    <item>
+      <title>Cómo funciona Moncu, paso a paso</title>
+      <link>https://moncu.es/blog/como-funciona-moncu/</link>
+      <guid>https://moncu.es/blog/como-funciona-moncu/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <description>De tu próxima salida a tu próximo descuento: así convierte Moncu tus kilómetros reales en moncus.</description>
+      <category>Guía</category>
+    </item>
+    <item>
+      <title>Por qué nació Moncu</title>
+      <link>https://moncu.es/blog/por-que-nacio-moncu/</link>
+      <guid>https://moncu.es/blog/por-que-nacio-moncu/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <description>Cada temporada de deporte nos dolía la cartera. Así que, entre amigos, nos propusimos que entrenar tuviera recompensa.</description>
+      <category>Nuestra historia</category>
+    </item>
+  </channel>
+</rss>
