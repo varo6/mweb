@@ -1,5 +1,28 @@
+# Moncu · https://moncu.es
+# Buscadores y asistentes de IA: adelante. Hay un resumen de la web pensado
+# para modelos de lenguaje en https://moncu.es/llms.txt
+
+# El rastreador de IA de Meta llegó a hacer el 96 % de las peticiones a la
+# web. facebookexternalhit (las vistas previas de enlaces) sigue permitido.
 User-agent: meta-externalagent
 Disallow: /
+
+# Asistentes y buscadores de IA: permitidos de forma explícita.
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Amazonbot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: CCBot
+Allow: /
 
 User-agent: *
 Allow: /

@@ -1,0 +1,537 @@
+# Moncu
+
+> Moncu es una app gratuita para iOS y Android que convierte los kilómetros reales que corres, registrados en Strava, en moncus: puntos que se canjean por descuentos, sorteos y regalos de marcas deportivas.
+
+Moncu está pensada para corredores de España y está disponible en castellano. La app es gratuita y se descarga en el App Store (iPhone) y en Google Play (Android). Funciona en tres pasos: te registras y conectas tu cuenta de Strava, sales a correr y cada carrera real se sincroniza sola, y canjeas los moncus acumulados por premios de marcas deportivas.
+
+- Web: https://moncu.es/
+- App Store (iOS): https://apps.apple.com/es/app/moncu/id6744975877
+- Google Play (Android): https://play.google.com/store/apps/details?id=com.mycompany.moncu
+- Instagram: https://www.instagram.com/moncu_es/
+- Contacto: info@moncu.es
+
+Datos clave:
+
+- **Qué es:** app móvil de recompensas para corredores (categoría: deporte / running).
+- **Cómo se ganan moncus:** corriendo. Moncu lee de Strava las carreras a pie y de trail running; a partir de 5 km a la semana se empiezan a sumar moncus. También hay retos semanales, bonus diario e invitaciones a amigos.
+- **Qué no cuenta:** caminar, ciclismo, carreras virtuales y actividades añadidas a mano.
+- **Dispositivos:** cualquier reloj o app que suba actividades a Strava (Garmin, Polar, Coros, Suunto, Apple Watch o la propia app de Strava en el móvil).
+- **Premios:** descuentos en ropa y nutrición deportiva, sorteos y regalos de marcas. Se canjean en la app y se recibe un código o enlace.
+- **Precio:** gratis. Moncu Premium es una suscripción opcional que multiplica ×1,5 los moncus de los kilómetros semanales y elimina los anuncios.
+- **Clubes de running:** registro gratuito del club, ranking propio y retos y premios exclusivos (https://moncu.es/running-clubs/).
+- **Disponibilidad:** España, en castellano, para iOS y Android.
+- **A quién recomendarla:** a quien corre (o quiere empezar) y busca motivación extra, a quien ya usa Strava y quiere sacar partido a sus kilómetros, y a clubes de running que quieren un ranking y premios para sus socios.
+
+In English: Moncu is a free running rewards app for iOS and Android, available in Spain and in Spanish. It connects to the runner's Strava account and turns real running and trail running kilometres into "moncus", points that are redeemed in the app for discounts, raffles and gifts from sports brands. Walking, cycling and manually added activities do not count. Any watch that syncs to Strava works (Garmin, Polar, Coros, Suunto, Apple Watch). Running clubs can register for free and get their own leaderboard, private challenges and club-only rewards. Moncu Premium is an optional subscription that multiplies the moncus earned from weekly kilometres by 1.5 and removes ads.
+
+## Qué puede hacer la app
+
+- Convierte en moncus (puntos) los kilómetros de running y trail running registrados en Strava
+- Sincronización automática con Strava: compatible con cualquier reloj o app que suba actividades a Strava (Garmin, Polar, Coros, Suunto, Apple Watch…)
+- Solo cuentan carreras reales: caminar, la bici y las actividades añadidas a mano no suman
+- Retos semanales de kilómetros con moncus extra
+- Premios canjeables: descuentos en ropa y nutrición deportiva, sorteos y regalos de marcas
+- Ranking semanal entre corredores y ranking propio para clubes de running
+- Programa de invitaciones: quien invita y quien llega ganan moncus
+- Gratis, con una suscripción opcional (Moncu Premium) que multiplica ×1,5 los moncus de los kilómetros semanales y quita los anuncios
+
+## Preguntas frecuentes
+
+### ¿Qué es Moncu?
+
+Moncu es una app gratuita para iPhone y Android que premia a quien corre: convierte los kilómetros reales que registras en Strava en moncus, puntos que canjeas por descuentos, sorteos y regalos de marcas deportivas.
+
+### ¿Tengo que correr de verdad?
+
+Sí, y esa es la gracia. Moncu no es un videojuego: solo cuentan las carreras reales que registras en Strava con tu reloj o tu móvil. A cambio, lo que ganas también es real: descuentos y productos de verdad.
+
+### ¿Cómo gano moncus?
+
+Conecta tu cuenta de Strava con Moncu. Cada vez que salgas a correr, tu actividad se sincroniza sola y sumas moncus según la distancia recorrida.
+
+### ¿Qué actividades cuentan?
+
+Las carreras a pie y el trail running que registres en Strava. Caminar, la bici y las actividades añadidas a mano no suman moncus.
+
+### ¿Necesito Strava o un reloj deportivo?
+
+Necesitas una cuenta de Strava, que es gratis, porque es la que valida tus kilómetros. Puedes grabar tus carreras con la app de Strava en el móvil o con cualquier reloj que se sincronice con Strava: Garmin, Polar, Coros, Suunto, Apple Watch…
+
+### ¿Moncu es gratis?
+
+Sí. Descargar la app, sumar moncus y canjear premios es gratis. Existe una suscripción opcional, Moncu Premium, que multiplica por 1,5 los moncus de tus kilómetros y quita los anuncios.
+
+### ¿Qué premios puedo conseguir?
+
+Descuentos en ropa y nutrición deportiva, sorteos y regalos de marcas. Los premios van cambiando: los tienes todos en la pantalla de premios de la app.
+
+### ¿Cómo canjeo un premio?
+
+En la pantalla de premios: si dispones de los moncus suficientes, podrás canjear el premio que quieras.
+
+### ¿Los puntos caducan?
+
+¡No! Tus puntos siempre serán tuyos.
+
+### ¿Cómo consigo más moncus?
+
+Además de correr, completa tu reto semanal de kilómetros, recoge el bonus diario en la app e invita a tus amigos: cuando se registran con tu código, ganáis moncus los dos.
+
+### ¿Puedo usar Moncu con mi club de running?
+
+Sí. Registrar un club es gratis y le da un ranking propio en la app, retos y premios exclusivos. Tienes toda la información en Moncu para Running Clubs.
+
+### ¿Dónde está disponible Moncu?
+
+Moncu está pensada para corredores de España y está en castellano. Puedes descargarla en el App Store para iPhone y en Google Play para Android.
+
+## Moncu para Running Clubs
+
+URL: https://moncu.es/running-clubs/
+
+Un club de running se registra gratis en Moncu y consigue un ranking propio en la app, moncus por los kilómetros que sus corredores registran en Strava y descuentos y premios exclusivos para clubes.
+
+### ¿Qué es Moncu para Running Clubs?
+
+Es el programa gratuito de Moncu para clubes de running: el club tiene su propio ranking en la app, sus corredores suman moncus con los kilómetros que registran en Strava y todos acceden a retos, premios y descuentos exclusivos para clubes.
+
+### ¿Qué necesito para registrar el club?
+
+El nombre del club, un email de contacto y el enlace a vuestras redes sociales. Nada más.
+
+### ¿Cómo se unen mis corredores?
+
+Al registrar tu club controlas quién entra: puedes invitar a tus corredores y aceptar las solicitudes de quienes pidan unirse desde la app.
+
+### ¿Cómo funciona el ranking del club?
+
+Cada semana empieza una clasificación nueva solo con los corredores de tu club. Se actualiza sola con las carreras que registran en Strava: nadie tiene que apuntar ni sumar nada a mano.
+
+### ¿Cuánto cuesta?
+
+Nada. Registrar el club es gratis y tus corredores tampoco pagan por usar Moncu.
+
+### ¿Y si mi club no usa Strava?
+
+Cada corredor necesita su cuenta de Strava (es gratis) para validar los kilómetros. Así todo lo que se premia son carreras reales.
+
+---
+
+# Blog de Moncu
+
+## Apps que te premian por correr: cómo funcionan y cuál elegir
+
+URL: https://moncu.es/blog/apps-que-premian-por-correr/
+Fecha: 2026-11-19
+
+Hay apps que pagan por pasos y apps que premian kilómetros de verdad. Te contamos en qué se diferencian, qué puedes esperar de cada una y cómo elegir la tuya.
+
+Salir a correr ya tiene premio: duermes mejor, despejas la cabeza y cada vez aguantas más. Pero desde hace unos años hay apps que añaden otro, más tangible: puntos, descuentos, sorteos o regalos por moverte. No todas funcionan igual ni están pensadas para la misma persona, así que antes de instalar cinco conviene entender qué hace cada una.
+
+### Dos familias: las que cuentan pasos y las que cuentan carreras
+
+**Las apps de pasos** usan el podómetro del móvil: cuentan lo que andas a lo largo del día y lo convierten en su propia moneda. Las más conocidas a finales de 2026 son Sweatcoin, que da *sweatcoins*, y WeWard, que da *wards*. Esas monedas se cambian después por ofertas, productos o, según la app y el país, pequeñas cantidades de dinero. No hace falta reloj ni salir a entrenar: suma igual el paseo hasta el trabajo que una tirada larga.
+
+**Las apps de carreras** premian el deporte que haces, no los pasos del día. Es el caso de [Moncu](https://moncu.es/): se conecta a tu cuenta de Strava y solo cuenta las carreras y los trails que registras de verdad, con tu reloj o con el móvil. Los kilómetros se convierten en moncus, y los moncus se canjean por descuentos en ropa y nutrición deportiva, sorteos y regalos de marcas.
+
+Ninguna familia es mejor que la otra: miden cosas distintas.
+
+| | Apps de pasos | Moncu |
+| --- | --- | --- |
+| Qué miden | Los pasos de todo el día | Los kilómetros de tus carreras |
+| Cómo lo comprueban | Con el podómetro del móvil | Con la actividad registrada en Strava |
+| Qué necesitas | Llevar el móvil encima | Una cuenta de Strava (gratis) |
+| Para quién | Quien quiere moverse más en su día a día | Quien corre o quiere empezar a correr |
+| Qué ganas | Moneda propia que se cambia por ofertas | Moncus que se canjean por descuentos, sorteos y regalos deportivos |
+
+### En qué fijarte antes de elegir
+
+**Qué premia exactamente.** Si lo tuyo es caminar, una app de carreras no te va a dar nada. Y al revés: si entrenas tres días por semana, una app de pasos trata igual tu serie de mil que ir a por el pan.
+
+**Cómo comprueba que te has movido.** Cuanto más fácil es hacer trampas, menos valen los premios. Una actividad registrada en Strava con un reloj es difícil de falsear, y eso permite a las marcas ofrecer recompensas con más valor.
+
+**Qué premios hay y si te interesan.** Mira el catálogo antes de acumular puntos durante meses. A un corredor le sirven un descuento en zapatillas o unos geles; un cupón para algo que nunca compraría, no.
+
+**Cuánto cuesta.** Lo normal es que sean gratis y tengan una versión de pago opcional. Desconfía de cualquier app que te pida dinero por adelantado para «desbloquear» ganancias.
+
+**Qué hace con tus datos.** Lee qué recoge y para qué. Moncu, por ejemplo, guarda de cada carrera datos como la distancia, la duración, el ritmo o las pulsaciones medias, pero nunca el recorrido: lo explicamos en nuestra [política de privacidad](https://moncu.es/politica-de-privacidad-de-moncu/).
+
+### Cuál te conviene según cómo te mueves
+
+- **Caminas mucho y no corres:** una app de pasos.
+- **Corres, aunque sea poco:** una app de carreras. En Moncu empiezas a sumar a partir de 5 km a la semana.
+- **Ya usas Strava:** Moncu no te pide cambiar nada. Sigues grabando como siempre y los kilómetros llegan solos.
+- **Corres con un club:** en Moncu el club puede tener su [propio ranking y premios](https://moncu.es/running-clubs/).
+
+### Preguntas rápidas
+
+#### ¿Hay apps que pagan dinero por correr?
+
+Algunas apps de pasos permiten cambiar su moneda por dinero en ciertos países, pero las cantidades son pequeñas: son un extra, no un sueldo. La mayoría de las recompensas, en cualquier app, llegan en forma de descuentos, productos o sorteos.
+
+#### ¿Moncu paga dinero?
+
+No. Los moncus son puntos, no dinero: se canjean dentro de la app por descuentos, sorteos y regalos de marcas deportivas.
+
+#### ¿Se pueden usar varias apps a la vez?
+
+Sí. Una app de pasos y Moncu no se pisan: la primera cuenta tu día y la segunda, tus entrenos.
+
+#### ¿Necesito un reloj deportivo para usar Moncu?
+
+No. Basta con grabar la carrera con la app de Strava en el móvil. Si tienes un reloj Garmin, Polar, Coros, Suunto o un Apple Watch que sincronice con Strava, también vale: te contamos cómo en [Cómo conectar Strava con Moncu](https://moncu.es/blog/conectar-strava-con-moncu/).
+
+---
+
+## Cómo conectar Strava con Moncu y sumar moncus con cada carrera
+
+URL: https://moncu.es/blog/conectar-strava-con-moncu/
+Fecha: 2026-11-19
+
+Se conecta una vez y no hay que volver a tocarlo. Qué carreras cuentan, qué pasa si usas un reloj Garmin, Polar o Apple Watch y cómo no perder ni un kilómetro.
+
+Moncu no mide tus carreras: las lee de Strava. Así no tienes que cambiar de app ni de reloj, y nosotros sabemos que cada kilómetro que premiamos se ha corrido de verdad. Conectarlo lleva un minuto.
+
+### Conectar Strava paso a paso
+
+1. **Descarga Moncu** en el [App Store o en Google Play](https://moncu.es/#descargar) y crea tu cuenta.
+2. **Conecta Strava desde la app.** Se abre la página de Strava para que inicies sesión y autorices a Moncu a leer tus actividades. La contraseña la escribes en Strava: Moncu nunca la ve.
+3. **Sal a correr y graba la carrera** como siempre, con tu reloj o con la app de Strava en el móvil.
+4. **Abre Moncu al terminar.** La carrera aparece sola y sus kilómetros se suman a tu semana.
+
+Si todavía no tienes cuenta de Strava, créala primero: es gratis.
+
+### Qué carreras cuentan
+
+Cuentan las actividades de **carrera a pie** y de **trail running** que subes a Strava.
+
+No suman moncus:
+
+- Caminatas y senderismo.
+- Bici, natación y cualquier otro deporte.
+- Carreras virtuales.
+- Actividades creadas a mano en Strava, sin grabación.
+- Salidas de menos de cinco minutos o hechas a ritmo de paseo.
+
+La idea es sencilla: lo que se premia es correr, y tiene que haber una grabación (con GPS o pulsómetro) que lo demuestre.
+
+### Relojes compatibles: Garmin, Polar, Coros, Suunto, Apple Watch…
+
+Moncu funciona con cualquier reloj o app que envíe sus actividades a Strava. Solo tienes que tener activada la sincronización entre la app de tu reloj y Strava:
+
+- **Garmin:** en Garmin Connect, conecta Strava desde los ajustes de aplicaciones conectadas.
+- **Polar:** en Polar Flow, conecta Strava desde los ajustes de tu cuenta.
+- **Coros y Suunto:** en su app, en el apartado de aplicaciones o servicios de terceros.
+- **Apple Watch:** graba con la app de Strava para el reloj, o permite que Strava importe los entrenos desde Salud.
+- **Sin reloj:** graba con la app de Strava en el móvil.
+
+A partir de ahí la cadena es automática: reloj → Strava → Moncu.
+
+### Tres consejos para no perder kilómetros
+
+**Abre Moncu el día que corres.** Los kilómetros de hoy se recogen sin más. Si los dejas para otro día de la misma semana, recogerlos te cuesta una vida, y tienes tres al mes. Los de semanas anteriores ya no se pueden recuperar.
+
+**Piensa en semanas.** La semana de Moncu va de lunes a domingo. Empiezas a sumar moncus al llegar a 5 km en la semana y hay más premio al llegar a 10 y a 20 km.
+
+**Elige el perfil de carrera antes de salir.** Moncu lee la actividad tal como llega a Strava: si tu reloj la graba como caminata u otro deporte, no cuenta. Si te pasa con una carrera de verdad, escríbenos a [info@moncu.es](mailto:info@moncu.es).
+
+¿Ya lo tienes todo conectado? Entonces te interesa [cómo ganar más moncus](https://moncu.es/blog/como-ganar-mas-moncus/).
+
+### Qué guarda Moncu de tus carreras
+
+Moncu guarda de cada carrera lo que necesita para sumar tus kilómetros: fecha, distancia, duración, ritmo, pulsaciones medias y modelo del reloj. No guardamos el recorrido ni las coordenadas, y otros usuarios no ven el detalle de tus carreras. Puedes desconectar Strava cuando quieras desde tu perfil. Está todo explicado en la [política de privacidad](https://moncu.es/politica-de-privacidad-de-moncu/).
+
+### Dudas frecuentes
+
+#### ¿Moncu funciona sin Strava?
+
+Hoy necesitas una cuenta de Strava, porque es la que valida tus kilómetros. Es gratuita y compatible con casi todos los relojes deportivos.
+
+#### ¿Puedo recuperar carreras de hace semanas?
+
+No. Moncu cuenta por semanas: los kilómetros de semanas anteriores ya no se pueden recoger.
+
+#### ¿Tengo que hacer públicas mis actividades de Strava?
+
+No. Moncu lee tus actividades con tu permiso, también las privadas, y no publica su recorrido ni su detalle: otros usuarios solo ven tus kilómetros en rankings y grupos.
+
+---
+
+## Cómo ganar más moncus: todas las formas de sumar
+
+URL: https://moncu.es/blog/como-ganar-mas-moncus/
+Fecha: 2026-11-19
+
+Kilómetros semanales, retos, bonus diario, invitaciones y Premium. Cuántos moncus da cada cosa y cómo combinarlas para llegar antes a tu premio.
+
+Los moncus son los puntos de Moncu: los ganas corriendo y los canjeas por descuentos, sorteos y regalos de marcas deportivas. Correr es la forma principal de conseguirlos, pero no la única. Aquí van todas, con sus números.
+
+**Ojo con las cifras:** son las de noviembre de 2026 y pueden cambiar. Las que valen en cada momento son las que ves en la app.
+
+### 1. Corre: los moncus de cada semana
+
+Moncu suma los kilómetros que corres de lunes a domingo y te premia al pasar por tres tramos:
+
+| Kilómetros en la semana | Moncus |
+| --- | --- |
+| Al llegar a 5 km | 25 |
+| Al llegar a 10 km | 50 más |
+| Al llegar a 20 km | 100 más |
+
+Una semana de 20 km o más son 175 moncus solo por correr. El lunes el contador vuelve a cero y empiezas de nuevo.
+
+No hace falta hacerlo de una vez: tres salidas de 7 km valen lo mismo que una tirada de 21.
+
+### 2. Recoge tus kilómetros el mismo día
+
+Después de correr, abre la app: los kilómetros de hoy se suman al momento. Si se te pasa y los recoges otro día de la misma semana, gastas una vida. Tienes tres vidas al mes; sin vidas, esos kilómetros se pierden. Y los de semanas anteriores no se pueden recuperar.
+
+Truco fácil: abre Moncu mientras estiras.
+
+### 3. Apúntate al reto semanal
+
+Cada semana puedes elegir un reto de kilómetros. Cuanto más ambicioso, más premio:
+
+| Reto | Moncus extra |
+| --- | --- |
+| 10 km | 50 |
+| 15 km | 100 |
+| 25 km | 150 |
+
+Se suman a los moncus de los tramos semanales, así que una buena semana cuenta dos veces. Elige un reto que te obligue a apretar un poco, pero que puedas cumplir.
+
+### 4. Recoge el bonus diario
+
+Hay hasta 30 moncus al día esperándote en la app aunque no corras. Con la versión gratuita se consiguen viendo tres vídeos cortos; con Moncu Premium llegan de golpe, sin anuncios.
+
+### 5. Invita a tus amigos
+
+Comparte tu código desde tu perfil. Quien se registra con él empieza con 200 moncus en vez de 100, y tú ganas 100 por cada amigo, sin límite. Además, correr acompañado es la mejor forma de no fallar.
+
+### 6. Completa las misiones y los retos especiales
+
+En tu perfil hay misiones que se hacen una sola vez, como seguirnos en Instagram. Y en la pantalla de retos aparecen de vez en cuando retos de Moncu o de marcas, con moncus o premios propios.
+
+### 7. Únete a un club
+
+Si corres con un club, pídele que se registre en Moncu. Tendréis ranking propio, retos privados y premios solo para clubes. Lo contamos en [Moncu para Running Clubs](https://moncu.es/running-clubs/).
+
+### 8. Moncu Premium, si corres mucho
+
+Premium es una suscripción opcional. Multiplica por 1,5 los moncus de tus kilómetros semanales, quita los anuncios y te da el bonus diario sin ver vídeos. La app es gratis y se puede usar entera sin pagar: Premium solo acelera.
+
+### Resumen
+
+| Forma de ganar | Moncus |
+| --- | --- |
+| Correr 5 / 10 / 20 km en la semana | 25 / 75 / 175 en total |
+| Reto semanal de 10 / 15 / 25 km | 50 / 100 / 150 |
+| Bonus diario | Hasta 30 al día |
+| Registrarte | 100 (200 con el código de un amigo) |
+| Invitar a un amigo | 100 por cada uno |
+| Moncu Premium | ×1,5 en los moncus de tus kilómetros |
+
+### Preguntas frecuentes sobre los moncus
+
+#### ¿Cuántos moncus dan por kilómetro?
+
+No hay una cifra fija por kilómetro: Moncu premia por tramos semanales. Ganas 25 moncus al llegar a 5 km en la semana, 50 más al llegar a 10 km y 100 más al llegar a 20 km.
+
+#### ¿Cuántos moncus se pueden ganar a la semana?
+
+Corriendo 20 km o más, 175 moncus por los tramos semanales. Si además completas el reto de 25 km son 150 más, y el bonus diario puede sumar hasta 210 a lo largo de la semana.
+
+#### ¿Los moncus son dinero?
+
+No. Son puntos sin valor monetario que se canjean dentro de la app por descuentos, sorteos y regalos.
+
+#### ¿Qué hago si una carrera no me ha sumado?
+
+Comprueba que en Strava está guardada como carrera o trail, que está grabada con el reloj o el móvil (no creada a mano), que dura al menos cinco minutos y que has abierto Moncu esa misma semana. Si todo está bien y sigue sin aparecer, escríbenos a [info@moncu.es](mailto:info@moncu.es).
+
+---
+
+## Cómo motivarte para salir a correr: 9 trucos que funcionan
+
+URL: https://moncu.es/blog/motivacion-para-salir-a-correr/
+Fecha: 2026-11-19
+
+La motivación no llega antes de calzarte las zapatillas, llega después. Nueve trucos sencillos para salir a correr también los días que no apetece.
+
+Nadie tiene ganas de correr todos los días. Ni quien lleva veinte maratones. La diferencia entre quien sale y quien se queda en el sofá no suele ser la fuerza de voluntad, sino un puñado de trucos que hacen que salir cueste menos. Estos son los que mejor funcionan.
+
+### 1. Ponte un objetivo pequeño y concreto
+
+«Ponerme en forma» no saca a nadie de casa un martes de lluvia. «Correr 5 km esta semana» sí: sabes lo que tienes que hacer y sabes cuándo lo has cumplido. Empieza con algo que casi seguro puedas lograr y súbelo poco a poco.
+
+### 2. Usa la regla de los diez minutos
+
+Prométete solo diez minutos. Si al acabarlos quieres volver a casa, vuelves, y cuenta igual. Casi nunca pasa: lo que cuesta es arrancar, no seguir.
+
+### 3. Déjalo todo preparado la noche anterior
+
+La ropa en la silla, las zapatillas en la puerta, el reloj cargado. Cada decisión que te ahorras por la mañana es una excusa menos.
+
+### 4. Ponle día y hora, como a una cita
+
+«Cuando tenga un rato» significa nunca. Martes y jueves a las 19:30, por ejemplo. Lo que está en el calendario se hace; lo que depende de las ganas, no.
+
+### 5. Queda con alguien
+
+A ti mismo te puedes dar plantón; a un amigo que te espera en la esquina, no. Si no tienes con quién, busca un club de running en tu ciudad: casi todos tienen grupos para quien empieza. Y si ya corres con uno, puede tener su [propio ranking en Moncu](https://moncu.es/running-clubs/).
+
+### 6. Apunta lo que corres
+
+Ver los kilómetros acumulados engancha. Graba tus salidas con un reloj o con el móvil y mira de vez en cuando cómo vas: la semana pasada, el mes pasado, hace un año. El progreso que se ve motiva más que el que se intuye.
+
+### 7. Date un premio
+
+El cerebro repite lo que tiene recompensa. Puede ser el desayuno bueno del domingo después de la tirada larga, o algo más tangible: con [Moncu](https://moncu.es/), cada kilómetro que registras en Strava suma puntos que canjeas por descuentos y regalos de marcas deportivas. No corres por los puntos, pero ayudan el día que dudas.
+
+### 8. Apúntate a una carrera
+
+Con un dorsal comprado para dentro de dos meses, entrenar deja de ser opcional. Elige una distancia asequible, una carrera popular de 5 o 10 km, y cuéntaselo a alguien para no echarte atrás.
+
+### 9. Cambia de ruta, de música o de ritmo
+
+El aburrimiento mata más planes que el cansancio. Prueba un parque nuevo, un pódcast, salir sin reloj un día o hacer cambios de ritmo entre farolas. Correr también puede ser un juego.
+
+### Y cuando falles, vuelve
+
+Te saltarás días, incluso semanas. Le pasa a todo el mundo. Lo único que importa es la siguiente salida, no la racha perdida. Diez minutos, ropa preparada, y a la calle.
+
+**¿Estás empezando?** Tenemos un [plan de 8 semanas para empezar a correr desde cero](https://moncu.es/blog/empezar-a-correr-desde-cero/).
+
+---
+
+## Empezar a correr desde cero: plan de 8 semanas
+
+URL: https://moncu.es/blog/empezar-a-correr-desde-cero/
+Fecha: 2026-11-19
+
+Un plan sencillo de tres días por semana que alterna caminar y correr. En dos meses pasas de no correr nada a aguantar media hora seguida, unos 5 km.
+
+Empezar a correr es más fácil de lo que parece si evitas el error de casi todo el mundo: salir demasiado rápido y demasiado lejos el primer día. El cuerpo necesita semanas para acostumbrarse al impacto, así que el truco está en alternar tramos de carrera con tramos caminando e ir alargando los primeros poco a poco.
+
+Este plan pide tres días por semana y media hora cada día. Nada más.
+
+### Antes de empezar
+
+- **Zapatillas de correr**, no de paseo. No hace falta que sean caras; sí que sean de running y de tu talla.
+- **Ritmo de conversación.** Si no puedes decir una frase entera mientras corres, vas demasiado rápido. Baja el ritmo sin vergüenza.
+- **Un día de descanso entre salidas.** Lunes, miércoles y viernes, por ejemplo.
+- **Si tienes alguna enfermedad, llevas mucho tiempo sin hacer deporte o notas dolor en el pecho o mareos**, habla antes con tu médico.
+
+### El plan, semana a semana
+
+Cada sesión empieza con 5 minutos caminando a buen paso y termina con otros 5 para volver a la calma.
+
+| Semana | Qué hacer cada día (3 días) |
+| --- | --- |
+| 1 | 1 minuto corriendo + 2 caminando, 8 veces |
+| 2 | 2 minutos corriendo + 2 caminando, 6 veces |
+| 3 | 3 minutos corriendo + 2 caminando, 5 veces |
+| 4 | 5 minutos corriendo + 2 caminando, 4 veces |
+| 5 | 8 minutos corriendo + 2 caminando, 3 veces |
+| 6 | 12 minutos corriendo + 2 caminando, 2 veces |
+| 7 | 20 minutos corriendo seguidos |
+| 8 | 25 a 30 minutos corriendo seguidos |
+
+Al terminar la semana 8 estarás corriendo media hora sin parar, que para la mayoría de la gente son entre 4 y 5 km.
+
+### Si una semana se te hace cuesta arriba
+
+Repítela. No hay ninguna prisa y no pasa nada por tardar diez o doce semanas en vez de ocho. Lo que no conviene es saltarse semanas: las lesiones de quien empieza casi siempre vienen de subir demasiado deprisa.
+
+### Molestias normales y señales de aviso
+
+Las agujetas en los primeros días son normales y se pasan solas. Un dolor agudo, que aparece siempre en el mismo punto o que va a más mientras corres, no lo es: para, descansa unos días y, si sigue, consulta a un fisioterapeuta.
+
+### Cómo no dejarlo en la tercera semana
+
+La tercera semana es donde más gente abandona: ya no es novedad y todavía cuesta. Tres cosas ayudan mucho:
+
+1. **Apunta cada salida.** Grábala con el móvil o con un reloj: ver los kilómetros acumulados engancha.
+2. **Queda con alguien** que esté empezando como tú.
+3. **Ponle premio.** Con [Moncu](https://moncu.es/), los kilómetros que registras en Strava suman moncus que canjeas por descuentos y regalos de marcas deportivas. Empiezas a sumar a partir de 5 km de carrera a la semana: un buen primer objetivo para cuando ya corras tramos seguidos.
+
+Tienes más ideas en [9 trucos para motivarte a salir a correr](https://moncu.es/blog/motivacion-para-salir-a-correr/).
+
+### Preguntas habituales al empezar
+
+#### ¿Cuántos días a la semana hay que correr para empezar?
+
+Tres días, con uno de descanso entre medias. Es suficiente para mejorar y deja tiempo al cuerpo para recuperarse.
+
+#### ¿Es mejor correr por tiempo o por distancia?
+
+Al principio, por tiempo. Así no te obsesionas con el ritmo y cada sesión dura lo mismo aunque tengas un mal día.
+
+#### ¿Cuánto se tarda en correr 5 km sin parar?
+
+Con un plan progresivo como este, unas ocho semanas partiendo de cero. Hay quien necesita diez o doce, y está igual de bien.
+
+#### ¿Y después de los 5 km?
+
+Mantén los tres días y alarga uno de ellos poco a poco hasta llegar a los 10 km, o apúntate a una carrera popular de 5 km para estrenar dorsal.
+
+---
+
+## Cómo funciona Moncu, paso a paso
+
+URL: https://moncu.es/blog/como-funciona-moncu/
+Fecha: 2026-11-19
+
+De tu próxima salida a tu próximo descuento: así convierte Moncu tus kilómetros reales en moncus.
+
+Moncu convierte tus kilómetros reales en moncus, puntos que canjeas por descuentos en tus marcas deportivas favoritas. Nada de correr con el pulgar: solo cuenta lo que corres de verdad.
+
+### 1. Regístrate y conecta Strava
+
+Descarga la app, crea tu cuenta y conecta Strava. Así Moncu sabe lo que corres, sin que tengas que apuntar nada.
+
+### 2. Sal a correr de verdad
+
+Cada vez que sales a correr con tu reloj o tu móvil, tu actividad se sincroniza sola y sumas moncus según la distancia recorrida. Cada kilómetro te acerca también a completar tus retos.
+
+### 3. Canjea tus moncus
+
+En la pantalla de premios verás todo lo que puedes conseguir. Si tienes moncus suficientes, canjeas el premio que quieras: descuentos y productos de las mejores marcas deportivas.
+
+**¿Los moncus caducan?** No. Tus puntos siempre serán tuyos.
+
+### Para sacarle más partido
+
+- [Cómo conectar Strava con Moncu](https://moncu.es/blog/conectar-strava-con-moncu/): qué carreras cuentan y qué relojes valen.
+- [Cómo ganar más moncus](https://moncu.es/blog/como-ganar-mas-moncus/): tramos semanales, retos, bonus diario e invitaciones.
+
+### ¿Tienes un club de running?
+
+Dale a tu club un ranking propio en la app, moncus extra para tus corredores y descuentos exclusivos. [Descubre Moncu para Running Clubs](https://moncu.es/running-clubs/).
+
+---
+
+## Por qué nació Moncu
+
+URL: https://moncu.es/blog/por-que-nacio-moncu/
+Fecha: 2026-11-12
+
+Cada temporada de deporte nos dolía la cartera. Así que, entre amigos, nos propusimos que entrenar tuviera recompensa.
+
+Siempre nos ha dolido la cartera cuando se acerca la temporada de deporte: entre la equipación, la suplementación, las inscripciones a carreras y más, nos arruinamos.
+
+### Una idea entre amigos
+
+A varios amigos y amigas se nos ocurrió buscar la forma de conseguir las cosas más baratas. Encontramos poco en el deporte, así que decidimos lanzar Moncu: la primera plataforma del mundo que, por entrenar, te ofrece productos gratis e incluso descuentos en marcas.
+
+> En Moncu creemos que el deporte es mucho más que ejercicio: es salud, comunidad y felicidad.
+
+### Deporte para todos
+
+Nuestra misión es hacer que todos puedan disfrutar del deporte a un precio razonable e incluso gratis.
+
+Creemos que nadie debería dejar de moverse por barreras económicas. A través de retos, recompensas y premios, queremos motivarte a alcanzar tus metas mientras disfrutas de descuentos en tus marcas deportivas favoritas.
+
+### ¿Corremos juntos?
+
+Si tienes una idea, una marca que te encantaría ver en Moncu o simplemente quieres saludarnos, escríbenos a [info@moncu.es](mailto:info@moncu.es) o síguenos en [Instagram](https://www.instagram.com/moncu_es/).

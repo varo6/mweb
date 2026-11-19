@@ -1,23 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Blog de Moncu</title>
     <link>https://moncu.es/blog/</link>
-    <description>Historias, consejos y novedades de Moncu.</description>
+    <atom:link href="https://moncu.es/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Guías, consejos para correr y novedades de Moncu, la app que convierte tus kilómetros en recompensas.</description>
     <language>es-ES</language>
+    <lastBuildDate>Thu, 19 Nov 2026 08:00:00 GMT</lastBuildDate>
+    <image>
+      <url>https://moncu.es/assets/moncu/moncu_icon_1024.png</url>
+      <title>Blog de Moncu</title>
+      <link>https://moncu.es/blog/</link>
+    </image>
+    <item>
+      <title>Apps que te premian por correr: cómo funcionan y cuál elegir</title>
+      <link>https://moncu.es/blog/apps-que-premian-por-correr/</link>
+      <guid isPermaLink="true">https://moncu.es/blog/apps-que-premian-por-correr/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
+      <description>Hay apps que pagan por pasos y apps que premian kilómetros de verdad. Te contamos en qué se diferencian, qué puedes esperar de cada una y cómo elegir la tuya.</description>
+      <category>Guía</category>
+    </item>
+    <item>
+      <title>Cómo conectar Strava con Moncu y sumar moncus con cada carrera</title>
+      <link>https://moncu.es/blog/conectar-strava-con-moncu/</link>
+      <guid isPermaLink="true">https://moncu.es/blog/conectar-strava-con-moncu/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
+      <description>Se conecta una vez y no hay que volver a tocarlo. Qué carreras cuentan, qué pasa si usas un reloj Garmin, Polar o Apple Watch y cómo no perder ni un kilómetro.</description>
+      <category>Guía</category>
+    </item>
+    <item>
+      <title>Cómo ganar más moncus: todas las formas de sumar</title>
+      <link>https://moncu.es/blog/como-ganar-mas-moncus/</link>
+      <guid isPermaLink="true">https://moncu.es/blog/como-ganar-mas-moncus/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
+      <description>Kilómetros semanales, retos, bonus diario, invitaciones y Premium. Cuántos moncus da cada cosa y cómo combinarlas para llegar antes a tu premio.</description>
+      <category>Guía</category>
+    </item>
+    <item>
+      <title>Cómo motivarte para salir a correr: 9 trucos que funcionan</title>
+      <link>https://moncu.es/blog/motivacion-para-salir-a-correr/</link>
+      <guid isPermaLink="true">https://moncu.es/blog/motivacion-para-salir-a-correr/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
+      <description>La motivación no llega antes de calzarte las zapatillas, llega después. Nueve trucos sencillos para salir a correr también los días que no apetece.</description>
+      <category>Consejos</category>
+    </item>
+    <item>
+      <title>Empezar a correr desde cero: plan de 8 semanas</title>
+      <link>https://moncu.es/blog/empezar-a-correr-desde-cero/</link>
+      <guid isPermaLink="true">https://moncu.es/blog/empezar-a-correr-desde-cero/</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
+      <description>Un plan sencillo de tres días por semana que alterna caminar y correr. En dos meses pasas de no correr nada a aguantar media hora seguida, unos 5 km.</description>
+      <category>Consejos</category>
+    </item>
     <item>
       <title>Cómo funciona Moncu, paso a paso</title>
       <link>https://moncu.es/blog/como-funciona-moncu/</link>
-      <guid>https://moncu.es/blog/como-funciona-moncu/</guid>
+      <guid isPermaLink="true">https://moncu.es/blog/como-funciona-moncu/</guid>
       <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
       <description>De tu próxima salida a tu próximo descuento: así convierte Moncu tus kilómetros reales en moncus.</description>
       <category>Guía</category>
     </item>
     <item>
       <title>Por qué nació Moncu</title>
       <link>https://moncu.es/blog/por-que-nacio-moncu/</link>
-      <guid>https://moncu.es/blog/por-que-nacio-moncu/</guid>
+      <guid isPermaLink="true">https://moncu.es/blog/por-que-nacio-moncu/</guid>
       <pubDate>Thu, 12 Nov 2026 08:00:00 GMT</pubDate>
+      <dc:creator>El equipo Moncu</dc:creator>
       <description>Cada temporada de deporte nos dolía la cartera. Así que, entre amigos, nos propusimos que entrenar tuviera recompensa.</description>
       <category>Nuestra historia</category>
     </item>
